@@ -1,0 +1,28 @@
+html {
+  /* px 表示“像素（pixels）”: 基础字号为 10 像素 */
+  font-size: 10px;
+  /* Google fonts 输出的 CSS */
+  font-family: 'Pacifico', cursive;
+}
+
+
+html {
+  background-color: #bfd5ae;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 60px;
+}
+
+a {
+  font-size: 50px;
+}
